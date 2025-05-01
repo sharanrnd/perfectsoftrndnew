@@ -1,0 +1,6 @@
+<svg width="140" height="40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font: bold 24px sans-serif; fill: #00ffd5; }
+  </style>
+  <text x="0" y="28" class="text">PerfectSoft.AI</text>
+</svg>
